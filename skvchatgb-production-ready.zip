@@ -1,0 +1,29 @@
+# SKV.ChatGB Production Package Export
+
+## 📦 COMPLETE APPLICATION EXPORT FOR PERMANENT DEPLOYMENT
+
+This package contains the complete SKV.ChatGB application ready for permanent deployment to prevent URL changes and protect business reputation.
+
+### Application Features:
+- Multi-AI chatbot (GPT, Claude, Grok, DeepSeek, Current AI)
+- Professional invoicing with VAT TRN: 100044161600003  
+- ADCB bank integration (Account: 14302897920001)
+- Document management with cloud integration
+- Mobile PWA for app installation
+- Voice message capabilities
+- User analytics and tracking
+- Google Cloud integration (project: skvchatgb)
+
+### Deployment Instructions:
+1. Extract all files
+2. Upload to Netlify/Vercel  
+3. Deploy as "skvchatgb"
+4. Result: Permanent URL that never changes
+
+### Target URLs:
+- Netlify: https://skvchatgb.netlify.app
+- Vercel: https://skvchatgb.vercel.app  
+
+Both provide permanent, reliable hosting for business use.
+
+Created for: SKV Global Business Services LLC, Dubai, UAE
